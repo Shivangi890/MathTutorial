@@ -1,0 +1,24 @@
+*
+{
+    box-sizing:border-box;
+}
+
+
+
+
+/*covert a container into a flex box */
+.container
+{
+    display:flex;
+     flex-wrap:wrap; 
+     
+}
+.column
+{
+    flex:1; 
+    
+}
+
+ img{
+     width:100%; 
+} 
